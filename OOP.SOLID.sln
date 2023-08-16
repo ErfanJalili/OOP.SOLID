@@ -7,9 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FEF5B7D1-421
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Single Responsibility", "Single Responsibility", "{535A4161-DE87-4DE6-8F37-2393D5A54823}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSR", "src\Single Responsibility\SR\NoSR.csproj", "{99A2CF41-5608-4300-8B33-9CA3F6391895}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithoutSR", "src\Single Responsibility\SR\WithoutSR.csproj", "{99A2CF41-5608-4300-8B33-9CA3F6391895}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WithSR", "src\Single Responsibility\WithSR\WithSR.csproj", "{5F6CD637-51D4-4DAD-8750-E41D72DEC488}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WithSR", "src\Single Responsibility\WithSR\WithSR.csproj", "{5F6CD637-51D4-4DAD-8750-E41D72DEC488}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
